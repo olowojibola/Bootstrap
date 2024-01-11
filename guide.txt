@@ -4,3 +4,6 @@ the project to npm project
 
 >>> npm init -y
 
+Step 2: Install using the version on the boostrap newest version
+
+>>> npm install bootstrap@5.3.2
