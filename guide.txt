@@ -7,3 +7,9 @@ the project to npm project
 Step 2: Install using the version on the boostrap newest version
 
 >>> npm install bootstrap@5.3.2
+
+Step 3: For every actitivty, the update can be used to Github
+
+>>> git add .  ## to add to Github
+>>> git commit -m "Install Bootstrap" #commit news changes
+>>> git push   ## Push it to Github
